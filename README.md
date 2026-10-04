@@ -30,8 +30,8 @@ FoodConnect AI is an AI-powered food donation and surplus food management platfo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/vishnuteja-18/food-connect-2.o.git
-   cd food-connect-2.o
+   git clone https://github.com/vishnuteja-18/food-links.git
+   cd food-links
    ```
 
 2. Start a local server:
