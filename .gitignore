@@ -1,0 +1,13 @@
+# Dependencies & environment
+node_modules/
+.env
+.env.local
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.system_generated/
